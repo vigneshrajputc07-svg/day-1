@@ -4,5 +4,5 @@
 /**
  * 
  */
-module training3 {
+module training4 {
 }
